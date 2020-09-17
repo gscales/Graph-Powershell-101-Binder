@@ -1,4 +1,4 @@
-Welcome to my Graph 101 Binder site, this is a simple site the summaries some the of the script I've posted to my blog for the Graph 101 series
+Welcome to my Graph 101 Binder site, this is a simple site the summaries some the of the scripts I've posted to my [blog](https://gsexdev.blogspot.com/) for my Graph 101 PowerShell series
 
 # How-To
 
