@@ -2,7 +2,7 @@ Welcome to my Graph 101 Binder site, this is a simple site the summaries some th
 
 # How-To
 
-### **Search**
+### **Search Mailbox Folders**
 
 [How to Create a Search Folder](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Search/Creating%20a%20SearchFolder%20in%20a%20Mailbox.md) 
 

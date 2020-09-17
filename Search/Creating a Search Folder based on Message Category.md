@@ -22,7 +22,7 @@ you can create a SearchFolder based on a query such as this which would produce 
 }
 ```
 
-Based on a previous post on Create Search Folders I have this script https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/SearchFolder.ps1 which you can use to Create Category Search folder eg
+Based on a previous post on [creating Search Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Search/Creating%20a%20SearchFolder%20in%20a%20Mailbox.md) I have this script https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/SearchFolder.ps1 which you can use to Create Category Search folder eg
 
 ```
 Invoke-CreateCategorySearchFolder -MailboxName user@domain.onmicrosoft.com -SearchFolderName GDPRTest -CategoryName "GDPR"
