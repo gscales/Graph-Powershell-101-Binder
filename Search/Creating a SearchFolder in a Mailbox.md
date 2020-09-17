@@ -65,3 +65,4 @@ in this case the Code will search for the folder by name using a query like
 https://graph.microsoft.com/v1.0/me/mailFolders('SearchFolders')/childFolders?$Filter=displayname eq 'FolderToRemove'
 ```
 
+[Back to 101 Graph PowerShell Binder Mini-Site](https://gscales.github.io/Graph-Powershell-101-Binder/)
