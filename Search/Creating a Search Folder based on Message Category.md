@@ -28,3 +28,5 @@ Based on a previous post on [creating Search Folders](https://github.com/gscales
 Invoke-CreateCategorySearchFolder -MailboxName user@domain.onmicrosoft.com -SearchFolderName CategoryTest -CategoryName "Category 1"
 ```
 
+[Back to 101 Graph PowerShell Binder Mini-Site](https://gscales.github.io/Graph-Powershell-101-Binder/)
+
