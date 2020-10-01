@@ -20,7 +20,7 @@ If you wanted to include the FolderSize in the response you can use the PR_Folde
 https://graph.microsoft.com/v1.0/users('user@domain.com')/MailFolders('RecoverableItemsRoot')/ChildFolders?$expand=SingleValueExtendedProperties($filter=(Id%20eq%20'Long%200x66B3'))
 ```
 
-I've include an example of this in the following script 
+I've include an example of this in the following script https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/Dumpster.ps1
 
 Use it like 
 

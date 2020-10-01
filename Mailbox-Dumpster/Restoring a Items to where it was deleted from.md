@@ -1,6 +1,8 @@
 ### Restoring a Deleted Item using the Microsoft Graph API
 
-As a pre-req for this article it builds on this and this
+(Sample Script for this Article can be found https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/Dumpster.ps1 )
+
+As a pre-req for this article it builds on [this](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20(Dumpster%20v2)%20Folders.md) and [this](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20in%20a%20Mailbox.md)
 
 When an Email item is deleted in a Mailbox a special property called the Last Active Parent FolderId (LAPFID) property gets set on an Email. This enables the [original folder item recovery feature](https://blogs.technet.microsoft.com/exchange/2017/06/13/announcing-original-folder-item-recovery/) that was rolled out to both Exchange Online and Exchange OnPrem (2016) last year. To Access the LAPFID property you need to use the extended property definition for it eg
 
@@ -59,3 +61,5 @@ $Item = Get-RecoverableItemsDeletions -Mailbox user@domain.com -filter "internet
 ```
 
 ​                  
+
+(Sample Script for this Article can be found https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/Dumpster.ps1 )

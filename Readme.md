@@ -22,8 +22,9 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 ### **Dumpster - Recoverable Items**
 
-How to Getting the Recoverable Items (Dumpster v2) Folders
+[How to Getting the Recoverable Items (Dumpster v2) Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20(Dumpster%20v2)%20Folders.md)
 
-Getting the Recoverable Items from the Dumpster Folders
+[Getting the Recoverable Items from the Dumpster Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20in%20a%20Mailbox.md)
 
-Restoring a Deleted Item back to its orginal location
+[Restoring a Deleted Item back to its ordinal location](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Restoring%20a%20Items%20to%20where%20it%20was%20deleted%20from.md)
+
