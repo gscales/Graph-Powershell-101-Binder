@@ -20,6 +20,8 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 [How to Create a Search Folder based on Email categories](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Search/Creating%20a%20Search%20Folder%20based%20on%20Message%20Category.md) 
 
+[Finding Emails in a Mail Folder older then a specific date](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Search/Finding%20Emails%20in%20a%20Folder%20older%20than%20a%20specific%20Date.md) 
+
 ### **Dumpster - Recoverable Items**
 
 [How to Get the Recoverable Items (Dumpster v2) Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20(Dumpster%20v2)%20Folders.md)
