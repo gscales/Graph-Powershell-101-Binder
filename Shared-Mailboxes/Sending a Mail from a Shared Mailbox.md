@@ -1,4 +1,4 @@
-# Sending an Email from a Shared Mailbox **
+# **Sending an Email from a Shared Mailbox **
 
 There is detailed documentation around Sending email as another user using the Graph API here https://docs.microsoft.com/en-us/graph/outlook-send-mail-from-other-user this doc will just look at some scripted examples of this
 
