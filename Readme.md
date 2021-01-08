@@ -26,6 +26,8 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 [Accesing a Shared Mailbox Folder](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Shared-Mailboxes/Accesing%20a%20Shared%20Mailbox%20Folder.md) 
 
+[Sending Email From a Shared Mailbox](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Shared-Mailboxes/Sending%20a%20Mail%20from%20a%20Shared%20Mailbox.md)
+
 ### **Dumpster - Recoverable Items**
 
 [How to Get the Recoverable Items (Dumpster v2) Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20(Dumpster%20v2)%20Folders.md)
