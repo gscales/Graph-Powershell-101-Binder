@@ -24,7 +24,7 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 ### **Shared Mailboxes**
 
-[Accesing a Shared Mailbox Folder](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Shared-Mailboxes/Accesing%20a%20Shared%20Mailbox%20Folder.md) 
+[Accessing a Shared Mailbox Folder](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Shared-Mailboxes/Accesing%20a%20Shared%20Mailbox%20Folder.md) 
 
 [Sending Email From a Shared Mailbox](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Shared-Mailboxes/Sending%20a%20Mail%20from%20a%20Shared%20Mailbox.md)
 
