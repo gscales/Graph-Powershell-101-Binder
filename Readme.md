@@ -6,6 +6,10 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 [Get a Folder using its FolderPath](https://gsexdev.blogspot.com/2020/05/graph-mailbox-basics-with-powershell.html) 
 
+### Authentication
+
+[Service Principal Authentication](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Authentication/Service%20Principal%20Authentication.md) 
+
 ### User Photos
 
 [Get the User Photo and save it to a file (and resize it)](https://gsexdev.blogspot.com/2020/07/graph-basics-get-user-photo-and-save-it.html)
@@ -13,6 +17,10 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 ### **Moderation** 
 
 [How to Approve and Reject Moderation Emails](https://gsexdev.blogspot.com/2020/08/how-to-approve-and-reject-moderation.html)
+
+### **Out of Office/AutoReplys** 
+
+[Using Out of Office / automaticRepliesSetting with Service Principal Authentications](https://gsexdev.blogspot.com/2021/06/using-out-of-office-automaticrepliesset.html)
 
 ### **Search Mailbox Folders**
 
