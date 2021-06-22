@@ -10,6 +10,10 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 [Service Principal Authentication](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Authentication/Service%20Principal%20Authentication.md) 
 
+### Contacts
+
+[Using Batching to improve the speed of Contact creation](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Contacts/Batch%20Importing%20Contacts.md) 
+
 ### User Photos
 
 [Get the User Photo and save it to a file (and resize it)](https://gsexdev.blogspot.com/2020/07/graph-basics-get-user-photo-and-save-it.html)
@@ -43,3 +47,4 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 [Getting the Recoverable Items from the Dumpster Folders](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Getting%20the%20Recoverable%20Items%20in%20a%20Mailbox.md)
 
 [Restoring a Deleted Item back to its ordinal location](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Mailbox-Dumpster/Restoring%20a%20Items%20to%20where%20it%20was%20deleted%20from.md)
+
