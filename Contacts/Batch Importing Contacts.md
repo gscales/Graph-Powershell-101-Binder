@@ -99,3 +99,6 @@ Once you have each of your CSV lines in an Object you can then create a Custom P
 ```
 
 I've put a full sample of using Service Principal Authentication, Import-CSV on Git Hub here https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/BatchContactCreation.ps1 and there is a sample CSV for this https://github.com/gscales/Powershell-Scripts/blob/master/Graph101/contacts.csv
+
+[Back to 101 Graph PowerShell Binder Mini-Site](https://gscales.github.io/Graph-Powershell-101-Binder/)
+
