@@ -10,7 +10,7 @@ Welcome to my Graph 101 Binder site, this is a simple site that summaries some t
 
 [Service Principal Authentication](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Authentication/Service%20Principal%20Authentication.md) 
 
-#### Contacts
+### Contacts
 
 [Using Batching to improve the speed of Contact creation](https://github.com/gscales/Graph-Powershell-101-Binder/blob/master/Contacts/Batch%20Importing%20Contacts.md) 
 
